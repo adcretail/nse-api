@@ -1,0 +1,2024 @@
+{
+    "equityDetails": {
+        "info": {
+            "symbol": "AARTISURF",
+            "companyName": "Aarti Surfactants Limited",
+            "industry": "Specialty Chemicals",
+            "activeSeries": [
+                "BE",
+                "P1"
+            ],
+            "debtSeries": [],
+            "isFNOSec": false,
+            "isCASec": false,
+            "isSLBSec": false,
+            "isDebtSec": false,
+            "isSuspended": false,
+            "tempSuspendedSeries": [],
+            "isETFSec": false,
+            "isDelisted": false,
+            "isin": "INE09EO04017",
+            "listingDate": "2020-07-14",
+            "isMunicipalBond": false,
+            "isTop10": false,
+            "identifier": "AARTISURFBEN"
+        },
+        "metadata": {
+            "series": "BE",
+            "symbol": "AARTISURF",
+            "isin": "INE09EO01013",
+            "status": "Listed",
+            "listingDate": "14-Jul-2020",
+            "industry": "Specialty Chemicals",
+            "lastUpdateTime": "20-Dec-2024 16:00:00",
+            "pdSectorPe": 51.37,
+            "pdSymbolPe": 35.82,
+            "pdSectorInd": "NA",
+            "pdSectorIndAll": "NA"
+        },
+        "securityInfo": {
+            "boardStatus": "Main",
+            "tradingStatus": "Active",
+            "tradingSegment": "Normal Market",
+            "sessionNo": "-",
+            "slb": "No",
+            "classOfShare": "Equity",
+            "derivatives": "No",
+            "surveillance": {
+                "surv": null,
+                "desc": null
+            },
+            "faceValue": 10,
+            "issuedSize": 8458495
+        },
+        "sddDetails": {
+            "SDDAuditor": "-",
+            "SDDStatus": "-"
+        },
+        "currentMarketType": "NM",
+        "priceInfo": {
+            "lastPrice": 642.5,
+            "change": -8.100000000000023,
+            "pChange": -1.2450046111281927,
+            "previousClose": 650.6,
+            "open": 650.6,
+            "close": 642.65,
+            "vwap": 648.5,
+            "stockIndClosePrice": 0,
+            "lowerCP": "618.10",
+            "upperCP": "683.10",
+            "pPriceBand": "5",
+            "basePrice": 650.6,
+            "intraDayHighLow": {
+                "min": 640.05,
+                "max": 653.7,
+                "value": 642.5
+            },
+            "weekHighLow": {
+                "min": 548.15,
+                "minDate": "27-Mar-2024",
+                "max": 918,
+                "maxDate": "18-Sep-2024",
+                "value": 642.5
+            },
+            "iNavValue": null,
+            "checkINAV": false,
+            "tickSize": 0.05,
+            "ieq": ""
+        },
+        "industryInfo": {
+            "macro": "Commodities",
+            "sector": "Chemicals",
+            "industry": "Chemicals & Petrochemicals",
+            "basicIndustry": "Specialty Chemicals"
+        },
+        "preOpenMarket": {
+            "preopen": [
+                {
+                    "price": 0,
+                    "buyQty": 0,
+                    "sellQty": 0,
+                    "iep": true
+                },
+                {
+                    "price": 641.15,
+                    "buyQty": 2,
+                    "sellQty": 0
+                },
+                {
+                    "price": 641.2,
+                    "buyQty": 10,
+                    "sellQty": 0
+                },
+                {
+                    "price": 641.25,
+                    "buyQty": 100,
+                    "sellQty": 0
+                },
+                {
+                    "price": 641.3,
+                    "buyQty": 20,
+                    "sellQty": 0
+                },
+                {
+                    "price": 650.6,
+                    "buyQty": 0,
+                    "sellQty": 1
+                },
+                {
+                    "price": 653.85,
+                    "buyQty": 0,
+                    "sellQty": 20
+                },
+                {
+                    "price": 653.9,
+                    "buyQty": 0,
+                    "sellQty": 100
+                },
+                {
+                    "price": 656,
+                    "buyQty": 0,
+                    "sellQty": 2
+                }
+            ],
+            "ato": {
+                "buy": 0,
+                "sell": 0
+            },
+            "IEP": 0,
+            "totalTradedVolume": 0,
+            "finalPrice": 651.4,
+            "finalQuantity": 0,
+            "lastUpdateTime": "20-Dec-2024 09:08:02",
+            "totalBuyQuantity": 896,
+            "totalSellQuantity": 1172,
+            "atoBuyQty": 0,
+            "atoSellQty": 0,
+            "Change": -650.6,
+            "perChange": -100,
+            "prevClose": 650.6
+        }
+    },
+    "tradeInfo": {
+        "noBlockDeals": true,
+        "bulkBlockDeals": [
+            {
+                "name": "Session I"
+            },
+            {
+                "name": "Session II"
+            }
+        ],
+        "marketDeptOrderBook": {
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "open": 650.6,
+            "bid": [
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                }
+            ],
+            "ask": [
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                }
+            ],
+            "tradeInfo": {
+                "totalTradedVolume": 0.07,
+                "totalTradedValue": 0.46,
+                "totalMarketCap": 543.46,
+                "ffmc": 263.885418177,
+                "impactCost": 0.34,
+                "cmDailyVolatility": "2.6",
+                "cmAnnualVolatility": "49.67",
+                "marketLot": "",
+                "activeSeries": "BE"
+            },
+            "valueAtRisk": {
+                "securityVar": 0,
+                "indexVar": 0,
+                "varMargin": 100,
+                "extremeLossMargin": 0,
+                "adhocMargin": 0,
+                "applicableMargin": 100
+            }
+        },
+        "securityWiseDP": {
+            "quantityTraded": 0,
+            "deliveryQuantity": 0,
+            "deliveryToTradedQuantity": 0,
+            "seriesRemarks": null,
+            "secWiseDelPosDate": "-"
+        }
+    },
+    "corporateInfo": {
+        "latest_announcements": {
+            "data": [
+                {
+                    "symbol": "AARTISURF",
+                    "broadcastdate": "13-Nov-2024 12:51:11",
+                    "subject": "Copy of Newspaper Publication"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "broadcastdate": "11-Nov-2024 17:18:23",
+                    "subject": "Financial Result Updates"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "broadcastdate": "11-Nov-2024 14:22:25",
+                    "subject": "ESOP/ESOS/ESPS"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "broadcastdate": "04-Nov-2024 17:51:08",
+                    "subject": "Board Meeting Intimation"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "broadcastdate": "14-Oct-2024 11:06:35",
+                    "subject": "Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "broadcastdate": "01-Oct-2024 18:05:36",
+                    "subject": "Loss/Duplicate-Share Certificate-XBRL"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "broadcastdate": "01-Oct-2024 18:04:26",
+                    "subject": "Issue of Duplicate Share Certificate"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "broadcastdate": "30-Sep-2024 11:49:14",
+                    "subject": "Loss/Duplicate-Share Certificate-XBRL"
+                }
+            ]
+        },
+        "corporate_actions": {
+            "data": [
+                {
+                    "symbol": "AARTISURF",
+                    "exdate": "17-Jan-2023",
+                    "purpose": "Rights 2:17 @ Premium Rs 545/-"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "exdate": "02-Aug-2021",
+                    "purpose": " Dividend - Rs 3 Per Share"
+                }
+            ]
+        },
+        "shareholdings_patterns": {
+            "data": {
+                "30-Sep-2023": [
+                    {
+                        "Promoter & Promoter Group": "  49.81"
+                    },
+                    {
+                        "Public": "  50.19"
+                    },
+                    {
+                        "Shares held by Employee Trusts": "   0.00"
+                    },
+                    {
+                        "Total": " 100.00"
+                    }
+                ],
+                "31-Dec-2023": [
+                    {
+                        "Promoter & Promoter Group": "  49.81"
+                    },
+                    {
+                        "Public": "  50.19"
+                    },
+                    {
+                        "Shares held by Employee Trusts": "   0.00"
+                    },
+                    {
+                        "Total": " 100.00"
+                    }
+                ],
+                "31-Mar-2024": [
+                    {
+                        "Promoter & Promoter Group": "  49.81"
+                    },
+                    {
+                        "Public": "  50.19"
+                    },
+                    {
+                        "Shares held by Employee Trusts": "   0.00"
+                    },
+                    {
+                        "Total": " 100.00"
+                    }
+                ],
+                "30-Jun-2024": [
+                    {
+                        "Promoter & Promoter Group": "  49.81"
+                    },
+                    {
+                        "Public": "  50.19"
+                    },
+                    {
+                        "Shares held by Employee Trusts": "   0.00"
+                    },
+                    {
+                        "Total": " 100.00"
+                    }
+                ],
+                "30-Sep-2024": [
+                    {
+                        "Promoter & Promoter Group": "  49.92"
+                    },
+                    {
+                        "Public": "  50.08"
+                    },
+                    {
+                        "Shares held by Employee Trusts": "   0.00"
+                    },
+                    {
+                        "Total": " 100.00"
+                    }
+                ]
+            }
+        },
+        "financial_results": {
+            "data": [
+                {
+                    "from_date": "01 Jul 2024",
+                    "to_date": "30 Sep 2024",
+                    "expenditure": "15392.73",
+                    "income": "15284.63",
+                    "audited": "Un-Audited",
+                    "cumulative": "Non-cumulative",
+                    "consolidated": "Non-Consolidated",
+                    "reDilEPS": "2.26",
+                    "reProLossBefTax": "312.15",
+                    "proLossAftTax": "191.56",
+                    "re_broadcast_timestamp": "12-Nov-2024 15:21",
+                    "xbrl_attachment": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_115077_1305589_12112024032138.xml",
+                    "na_attachment": "https://nsearchives.nseindia.com/na_attachments/AARTISURF_NA_12112024152138_1.zip"
+                },
+                {
+                    "from_date": "01 Apr 2024",
+                    "to_date": "30 Jun 2024",
+                    "expenditure": "14047.69",
+                    "income": "14390.24",
+                    "audited": "Un-Audited",
+                    "cumulative": "Non-cumulative",
+                    "consolidated": "Non-Consolidated",
+                    "reDilEPS": "2.76",
+                    "reProLossBefTax": "342.55",
+                    "proLossAftTax": "233.14",
+                    "re_broadcast_timestamp": "20-Jul-2024 19:38",
+                    "xbrl_attachment": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_109226_1198141_20072024073834.xml",
+                    "na_attachment": "https://nsearchives.nseindia.com/na_attachments/AARTISURF_NA_20072024193834_1.zip"
+                },
+                {
+                    "from_date": "01 Jan 2024",
+                    "to_date": "31 Mar 2024",
+                    "expenditure": "15089.55",
+                    "income": "15859.67",
+                    "audited": "Audited",
+                    "cumulative": "Non-cumulative",
+                    "consolidated": "Non-Consolidated",
+                    "reDilEPS": "6.98",
+                    "reProLossBefTax": "770.12",
+                    "proLossAftTax": "558.79",
+                    "re_broadcast_timestamp": "23-Apr-2024 17:22",
+                    "xbrl_attachment": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104648_1106580_23042024052208.xml",
+                    "na_attachment": "https://nsearchives.nseindia.com/na_attachments/AARTISURF_NA_23042024172208_1.zip"
+                },
+                {
+                    "from_date": "01 Oct 2023",
+                    "to_date": "31 Dec 2023",
+                    "expenditure": "12969.23",
+                    "income": "13878",
+                    "audited": "Audited",
+                    "cumulative": "Non-cumulative",
+                    "consolidated": "Non-Consolidated",
+                    "reDilEPS": "8.42",
+                    "reProLossBefTax": "908.77",
+                    "proLossAftTax": "668.46",
+                    "re_broadcast_timestamp": "20-Jan-2024 20:03",
+                    "xbrl_attachment": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_101266_1032408_20012024080353.xml",
+                    "na_attachment": "https://nsearchives.nseindia.com/na_attachments/AARTISURF_NA_20012024200353_1.zip"
+                },
+                {
+                    "from_date": "01 Jul 2023",
+                    "to_date": "30 Sep 2023",
+                    "expenditure": "13510.9",
+                    "income": "14388.74",
+                    "audited": "Audited",
+                    "cumulative": "Non-cumulative",
+                    "consolidated": "Non-Consolidated",
+                    "reDilEPS": "5.98",
+                    "reProLossBefTax": "877.84",
+                    "proLossAftTax": "474.56",
+                    "re_broadcast_timestamp": "01-Nov-2023 16:13",
+                    "xbrl_attachment": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_98417_973376_01112023041328.xml",
+                    "na_attachment": "https://nsearchives.nseindia.com/na_attachments/AARTISURF_NA_01112023161328_1.zip"
+                }
+            ]
+        },
+        "borad_meeting": {
+            "data": [
+                {
+                    "symbol": "AARTISURF",
+                    "purpose": "AARTI SURFACTANTS LIMITED has informed the Exchange about Board Meeting to be held on 11-Nov-2024 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2024 .",
+                    "meetingdate": "11-Nov-2024"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "purpose": "To consider and approve the Un-audited financial results for the quarter and half year ended September 30, 2024.",
+                    "meetingdate": "11-Nov-2024"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "purpose": "Board Meeting Intimation",
+                    "meetingdate": "20-Jul-2024"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "purpose": "To consider and approve the financial results for the period ended Jun 30, 2024 and other business matters",
+                    "meetingdate": "20-Jul-2024"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "purpose": "Board Meeting Intimation",
+                    "meetingdate": "05-Jun-2024"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "purpose": "To consider other business matters with respect to forfeiture of partly paid-up equity shares",
+                    "meetingdate": "05-Jun-2024"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "purpose": "Board Meeting Intimation",
+                    "meetingdate": "22-Apr-2024"
+                },
+                {
+                    "symbol": "AARTISURF",
+                    "purpose": "To consider and approve the financial results for the period ended March 31, 2024",
+                    "meetingdate": "22-Apr-2024"
+                }
+            ]
+        }
+    },
+    "intradayData": {
+        "identifier": "AARTISURFBEN",
+        "name": "AARTISURF",
+        "grapthData": [
+            [
+                1734686105000,
+                651.4
+            ],
+            [
+                1734686117000,
+                651.4
+            ],
+            [
+                1734686158000,
+                651.4
+            ],
+            [
+                1734686198000,
+                651.4
+            ],
+            [
+                1734686318000,
+                651.4
+            ],
+            [
+                1734686404000,
+                651.4
+            ],
+            [
+                1734686473000,
+                651.4
+            ],
+            [
+                1734686504000,
+                651.4
+            ],
+            [
+                1734686519000,
+                651.4
+            ],
+            [
+                1734686565000,
+                651.4
+            ],
+            [
+                1734686595000,
+                651.4
+            ],
+            [
+                1734686611000,
+                651.4
+            ],
+            [
+                1734686641000,
+                651
+            ],
+            [
+                1734686664000,
+                651
+            ],
+            [
+                1734686672000,
+                651
+            ],
+            [
+                1734686703000,
+                651
+            ],
+            [
+                1734686710000,
+                651
+            ],
+            [
+                1734686734000,
+                651
+            ],
+            [
+                1734686756000,
+                651
+            ],
+            [
+                1734686764000,
+                651
+            ],
+            [
+                1734686787000,
+                651
+            ],
+            [
+                1734686794000,
+                651
+            ],
+            [
+                1734686817000,
+                650
+            ],
+            [
+                1734686824000,
+                650
+            ],
+            [
+                1734686862000,
+                650
+            ],
+            [
+                1734686885000,
+                650
+            ],
+            [
+                1734686900000,
+                650
+            ],
+            [
+                1734686908000,
+                650
+            ],
+            [
+                1734687035000,
+                650
+            ],
+            [
+                1734687050000,
+                650
+            ],
+            [
+                1734687065000,
+                650
+            ],
+            [
+                1734687102000,
+                650
+            ],
+            [
+                1734687110000,
+                650
+            ],
+            [
+                1734687161000,
+                650
+            ],
+            [
+                1734687175000,
+                650
+            ],
+            [
+                1734687219000,
+                650
+            ],
+            [
+                1734687271000,
+                650
+            ],
+            [
+                1734687292000,
+                650
+            ],
+            [
+                1734687329000,
+                650
+            ],
+            [
+                1734687400000,
+                650
+            ],
+            [
+                1734687407000,
+                650
+            ],
+            [
+                1734687429000,
+                650
+            ],
+            [
+                1734687444000,
+                650
+            ],
+            [
+                1734687592000,
+                650
+            ],
+            [
+                1734687613000,
+                650
+            ],
+            [
+                1734687711000,
+                642.5
+            ],
+            [
+                1734687759000,
+                642.5
+            ],
+            [
+                1734687766000,
+                642.5
+            ],
+            [
+                1734687773000,
+                653.7
+            ],
+            [
+                1734687780000,
+                653.7
+            ],
+            [
+                1734687794000,
+                653.7
+            ],
+            [
+                1734687801000,
+                653.7
+            ],
+            [
+                1734687821000,
+                653.7
+            ],
+            [
+                1734687856000,
+                653.7
+            ],
+            [
+                1734687862000,
+                653.7
+            ],
+            [
+                1734687869000,
+                653.7
+            ],
+            [
+                1734687876000,
+                653.7
+            ],
+            [
+                1734687890000,
+                653.7
+            ],
+            [
+                1734687923000,
+                653.7
+            ],
+            [
+                1734687998000,
+                653.7
+            ],
+            [
+                1734688104000,
+                653.7
+            ],
+            [
+                1734688118000,
+                653.7
+            ],
+            [
+                1734688168000,
+                653.7
+            ],
+            [
+                1734688399000,
+                653.7
+            ],
+            [
+                1734688444000,
+                653.7
+            ],
+            [
+                1734688517000,
+                652.1
+            ],
+            [
+                1734688622000,
+                652.1
+            ],
+            [
+                1734688742000,
+                645
+            ],
+            [
+                1734688748000,
+                645
+            ],
+            [
+                1734688769000,
+                645
+            ],
+            [
+                1734688775000,
+                642.65
+            ],
+            [
+                1734688823000,
+                642.65
+            ],
+            [
+                1734688850000,
+                642.65
+            ],
+            [
+                1734688869000,
+                642.65
+            ],
+            [
+                1734688883000,
+                642.7
+            ],
+            [
+                1734688942000,
+                642.7
+            ],
+            [
+                1734688962000,
+                642.7
+            ],
+            [
+                1734688968000,
+                642.7
+            ],
+            [
+                1734688988000,
+                642.7
+            ],
+            [
+                1734689008000,
+                642.7
+            ],
+            [
+                1734689028000,
+                642.7
+            ],
+            [
+                1734689041000,
+                642.7
+            ],
+            [
+                1734689055000,
+                642.7
+            ],
+            [
+                1734689097000,
+                652
+            ],
+            [
+                1734689117000,
+                652
+            ],
+            [
+                1734689137000,
+                652
+            ],
+            [
+                1734689151000,
+                652
+            ],
+            [
+                1734689209000,
+                652
+            ],
+            [
+                1734689235000,
+                652
+            ],
+            [
+                1734689242000,
+                652
+            ],
+            [
+                1734689268000,
+                652
+            ],
+            [
+                1734689275000,
+                642.1
+            ],
+            [
+                1734689281000,
+                642.1
+            ],
+            [
+                1734689295000,
+                642.1
+            ],
+            [
+                1734689301000,
+                642.1
+            ],
+            [
+                1734689321000,
+                640.05
+            ],
+            [
+                1734689341000,
+                652
+            ],
+            [
+                1734689348000,
+                652
+            ],
+            [
+                1734689361000,
+                652
+            ],
+            [
+                1734689367000,
+                652
+            ],
+            [
+                1734689374000,
+                652
+            ],
+            [
+                1734689387000,
+                652
+            ],
+            [
+                1734689394000,
+                652
+            ],
+            [
+                1734689420000,
+                652
+            ],
+            [
+                1734689433000,
+                652
+            ],
+            [
+                1734689439000,
+                652
+            ],
+            [
+                1734689472000,
+                652
+            ],
+            [
+                1734689510000,
+                652
+            ],
+            [
+                1734689585000,
+                652
+            ],
+            [
+                1734689605000,
+                652
+            ],
+            [
+                1734689612000,
+                652
+            ],
+            [
+                1734689618000,
+                652
+            ],
+            [
+                1734689696000,
+                652
+            ],
+            [
+                1734689767000,
+                652
+            ],
+            [
+                1734689865000,
+                651.8
+            ],
+            [
+                1734689884000,
+                651.8
+            ],
+            [
+                1734689917000,
+                651.8
+            ],
+            [
+                1734689997000,
+                651.8
+            ],
+            [
+                1734690043000,
+                651.8
+            ],
+            [
+                1734690056000,
+                651.8
+            ],
+            [
+                1734690089000,
+                651.8
+            ],
+            [
+                1734690108000,
+                651.8
+            ],
+            [
+                1734690154000,
+                651.8
+            ],
+            [
+                1734690198000,
+                651.8
+            ],
+            [
+                1734690211000,
+                651.8
+            ],
+            [
+                1734690217000,
+                651.8
+            ],
+            [
+                1734690223000,
+                651.8
+            ],
+            [
+                1734690229000,
+                651.8
+            ],
+            [
+                1734690357000,
+                651.8
+            ],
+            [
+                1734690427000,
+                651.8
+            ],
+            [
+                1734690496000,
+                651.8
+            ],
+            [
+                1734690557000,
+                651.8
+            ],
+            [
+                1734690569000,
+                651.95
+            ],
+            [
+                1734690600000,
+                651.8
+            ],
+            [
+                1734690783000,
+                652
+            ],
+            [
+                1734690813000,
+                652
+            ],
+            [
+                1734690861000,
+                652
+            ],
+            [
+                1734690911000,
+                652
+            ],
+            [
+                1734691074000,
+                652
+            ],
+            [
+                1734691115000,
+                652
+            ],
+            [
+                1734691121000,
+                652
+            ],
+            [
+                1734691127000,
+                652
+            ],
+            [
+                1734691359000,
+                652
+            ],
+            [
+                1734691437000,
+                652
+            ],
+            [
+                1734691442000,
+                651.8
+            ],
+            [
+                1734691448000,
+                651.8
+            ],
+            [
+                1734691471000,
+                651.8
+            ],
+            [
+                1734691580000,
+                651.8
+            ],
+            [
+                1734691586000,
+                651.8
+            ],
+            [
+                1734691598000,
+                651.8
+            ],
+            [
+                1734691697000,
+                652
+            ],
+            [
+                1734691980000,
+                652
+            ],
+            [
+                1734692211000,
+                652
+            ],
+            [
+                1734692228000,
+                652
+            ],
+            [
+                1734692240000,
+                652
+            ],
+            [
+                1734692329000,
+                652.95
+            ],
+            [
+                1734692371000,
+                652.95
+            ],
+            [
+                1734692543000,
+                652.95
+            ],
+            [
+                1734692713000,
+                652.95
+            ],
+            [
+                1734692747000,
+                651.8
+            ],
+            [
+                1734692852000,
+                651.8
+            ],
+            [
+                1734692863000,
+                652.95
+            ],
+            [
+                1734692909000,
+                652.95
+            ],
+            [
+                1734693123000,
+                652.95
+            ],
+            [
+                1734693133000,
+                651.8
+            ],
+            [
+                1734693410000,
+                651.8
+            ],
+            [
+                1734693522000,
+                651.8
+            ],
+            [
+                1734693600000,
+                652.95
+            ],
+            [
+                1734693928000,
+                652.95
+            ],
+            [
+                1734694149000,
+                652.95
+            ],
+            [
+                1734694198000,
+                652.95
+            ],
+            [
+                1734694267000,
+                652.95
+            ],
+            [
+                1734694315000,
+                652.95
+            ],
+            [
+                1734694501000,
+                652.95
+            ],
+            [
+                1734694544000,
+                652.95
+            ],
+            [
+                1734694637000,
+                651.8
+            ],
+            [
+                1734694723000,
+                651.8
+            ],
+            [
+                1734694855000,
+                651.8
+            ],
+            [
+                1734694866000,
+                653
+            ],
+            [
+                1734695089000,
+                653
+            ],
+            [
+                1734695252000,
+                653
+            ],
+            [
+                1734695315000,
+                651.9
+            ],
+            [
+                1734695512000,
+                651.9
+            ],
+            [
+                1734695789000,
+                651.9
+            ],
+            [
+                1734695819000,
+                651.9
+            ],
+            [
+                1734695876000,
+                653
+            ],
+            [
+                1734696246000,
+                653
+            ],
+            [
+                1734696559000,
+                653
+            ],
+            [
+                1734696628000,
+                653
+            ],
+            [
+                1734696706000,
+                651.9
+            ],
+            [
+                1734697011000,
+                653
+            ],
+            [
+                1734697324000,
+                653
+            ],
+            [
+                1734697602000,
+                653
+            ],
+            [
+                1734697877000,
+                651.9
+            ],
+            [
+                1734697945000,
+                651.9
+            ],
+            [
+                1734697977000,
+                651.8
+            ],
+            [
+                1734698045000,
+                651.8
+            ],
+            [
+                1734698113000,
+                651.8
+            ],
+            [
+                1734698291000,
+                651.8
+            ],
+            [
+                1734698307000,
+                651.8
+            ],
+            [
+                1734698398000,
+                651.8
+            ],
+            [
+                1734698506000,
+                653
+            ],
+            [
+                1734698569000,
+                653
+            ],
+            [
+                1734698913000,
+                653
+            ],
+            [
+                1734698936000,
+                653
+            ],
+            [
+                1734698986000,
+                653
+            ],
+            [
+                1734699174000,
+                651.8
+            ],
+            [
+                1734699254000,
+                651.8
+            ],
+            [
+                1734699467000,
+                651.8
+            ],
+            [
+                1734699483000,
+                651.8
+            ],
+            [
+                1734699528000,
+                651.8
+            ],
+            [
+                1734699621000,
+                651.8
+            ],
+            [
+                1734699881000,
+                651.8
+            ],
+            [
+                1734700006000,
+                651.8
+            ],
+            [
+                1734700252000,
+                651.8
+            ],
+            [
+                1734700564000,
+                651.8
+            ],
+            [
+                1734700582000,
+                651.8
+            ],
+            [
+                1734700718000,
+                651.8
+            ],
+            [
+                1734700775000,
+                651.8
+            ],
+            [
+                1734700809000,
+                651.8
+            ],
+            [
+                1734700815000,
+                653
+            ],
+            [
+                1734700887000,
+                653
+            ],
+            [
+                1734700963000,
+                653
+            ],
+            [
+                1734701064000,
+                653
+            ],
+            [
+                1734701120000,
+                652.5
+            ],
+            [
+                1734701166000,
+                652.95
+            ],
+            [
+                1734701252000,
+                652.95
+            ],
+            [
+                1734701346000,
+                652.95
+            ],
+            [
+                1734701436000,
+                652.95
+            ],
+            [
+                1734701481000,
+                651.8
+            ],
+            [
+                1734701658000,
+                651.8
+            ],
+            [
+                1734701730000,
+                651.8
+            ],
+            [
+                1734701806000,
+                651.8
+            ],
+            [
+                1734702040000,
+                651.8
+            ],
+            [
+                1734702056000,
+                651.8
+            ],
+            [
+                1734702096000,
+                651.8
+            ],
+            [
+                1734702169000,
+                651.8
+            ],
+            [
+                1734702226000,
+                651.8
+            ],
+            [
+                1734702327000,
+                651.8
+            ],
+            [
+                1734702409000,
+                651.8
+            ],
+            [
+                1734702496000,
+                651.8
+            ],
+            [
+                1734702752000,
+                651.8
+            ],
+            [
+                1734702897000,
+                651.8
+            ],
+            [
+                1734703014000,
+                651.8
+            ],
+            [
+                1734703031000,
+                645
+            ],
+            [
+                1734703140000,
+                645
+            ],
+            [
+                1734703145000,
+                645
+            ],
+            [
+                1734703162000,
+                645
+            ],
+            [
+                1734703188000,
+                645.05
+            ],
+            [
+                1734703216000,
+                645.05
+            ],
+            [
+                1734703268000,
+                645.05
+            ],
+            [
+                1734703507000,
+                645.05
+            ],
+            [
+                1734703546000,
+                645.05
+            ],
+            [
+                1734703834000,
+                645.05
+            ],
+            [
+                1734703869000,
+                645.05
+            ],
+            [
+                1734703899000,
+                645.05
+            ],
+            [
+                1734703956000,
+                645.05
+            ],
+            [
+                1734704021000,
+                645.05
+            ],
+            [
+                1734704026000,
+                645.05
+            ],
+            [
+                1734704077000,
+                645.05
+            ],
+            [
+                1734704111000,
+                645.05
+            ],
+            [
+                1734704128000,
+                645.05
+            ],
+            [
+                1734704191000,
+                645.05
+            ],
+            [
+                1734704227000,
+                645.05
+            ],
+            [
+                1734704239000,
+                645.05
+            ],
+            [
+                1734704274000,
+                652.9
+            ],
+            [
+                1734704303000,
+                652.9
+            ],
+            [
+                1734704349000,
+                652.9
+            ],
+            [
+                1734704432000,
+                652.9
+            ],
+            [
+                1734704456000,
+                652.9
+            ],
+            [
+                1734704467000,
+                652.9
+            ],
+            [
+                1734704473000,
+                652.9
+            ],
+            [
+                1734704485000,
+                652.9
+            ],
+            [
+                1734704490000,
+                652.9
+            ],
+            [
+                1734704508000,
+                652.9
+            ],
+            [
+                1734704728000,
+                652.9
+            ],
+            [
+                1734705065000,
+                651.9
+            ],
+            [
+                1734705071000,
+                651.9
+            ],
+            [
+                1734705105000,
+                651.9
+            ],
+            [
+                1734705143000,
+                651.9
+            ],
+            [
+                1734705154000,
+                651.9
+            ],
+            [
+                1734705244000,
+                651.9
+            ],
+            [
+                1734705393000,
+                651.9
+            ],
+            [
+                1734705433000,
+                651.9
+            ],
+            [
+                1734705520000,
+                651.9
+            ],
+            [
+                1734705577000,
+                651.9
+            ],
+            [
+                1734705764000,
+                651.9
+            ],
+            [
+                1734705909000,
+                651.9
+            ],
+            [
+                1734705920000,
+                651.9
+            ],
+            [
+                1734706007000,
+                651.9
+            ],
+            [
+                1734706065000,
+                645
+            ],
+            [
+                1734706123000,
+                645
+            ],
+            [
+                1734706134000,
+                645
+            ],
+            [
+                1734706151000,
+                645
+            ],
+            [
+                1734706163000,
+                645
+            ],
+            [
+                1734706181000,
+                645
+            ],
+            [
+                1734706198000,
+                645
+            ],
+            [
+                1734706228000,
+                645
+            ],
+            [
+                1734706234000,
+                645
+            ],
+            [
+                1734706288000,
+                645
+            ],
+            [
+                1734706294000,
+                645
+            ],
+            [
+                1734706306000,
+                645
+            ],
+            [
+                1734706318000,
+                642.3
+            ],
+            [
+                1734706347000,
+                642.3
+            ],
+            [
+                1734706371000,
+                642.3
+            ],
+            [
+                1734706401000,
+                642.3
+            ],
+            [
+                1734706448000,
+                642.3
+            ],
+            [
+                1734706455000,
+                642.3
+            ],
+            [
+                1734706479000,
+                642.3
+            ],
+            [
+                1734706491000,
+                648
+            ],
+            [
+                1734706497000,
+                648
+            ],
+            [
+                1734706517000,
+                648
+            ],
+            [
+                1734706530000,
+                648
+            ],
+            [
+                1734706672000,
+                648
+            ],
+            [
+                1734706691000,
+                648
+            ],
+            [
+                1734706740000,
+                648
+            ],
+            [
+                1734706901000,
+                648
+            ],
+            [
+                1734706935000,
+                648
+            ],
+            [
+                1734706974000,
+                648
+            ],
+            [
+                1734706981000,
+                648
+            ],
+            [
+                1734707041000,
+                648
+            ],
+            [
+                1734707048000,
+                648
+            ],
+            [
+                1734707061000,
+                648
+            ],
+            [
+                1734707075000,
+                648
+            ],
+            [
+                1734707082000,
+                648
+            ],
+            [
+                1734707088000,
+                648
+            ],
+            [
+                1734707095000,
+                648
+            ],
+            [
+                1734707108000,
+                648
+            ],
+            [
+                1734707148000,
+                648
+            ],
+            [
+                1734707161000,
+                648
+            ],
+            [
+                1734707167000,
+                648
+            ],
+            [
+                1734707214000,
+                648
+            ],
+            [
+                1734707234000,
+                648
+            ],
+            [
+                1734707241000,
+                648
+            ],
+            [
+                1734707261000,
+                648
+            ],
+            [
+                1734707275000,
+                645.85
+            ],
+            [
+                1734707295000,
+                645.85
+            ],
+            [
+                1734707322000,
+                645.85
+            ],
+            [
+                1734707356000,
+                645.85
+            ],
+            [
+                1734707426000,
+                645.85
+            ],
+            [
+                1734707440000,
+                642.75
+            ],
+            [
+                1734707522000,
+                642.35
+            ],
+            [
+                1734707529000,
+                642.35
+            ],
+            [
+                1734707550000,
+                642.35
+            ],
+            [
+                1734707590000,
+                642.35
+            ],
+            [
+                1734707642000,
+                642.3
+            ],
+            [
+                1734707649000,
+                643
+            ],
+            [
+                1734707700000,
+                643
+            ],
+            [
+                1734707707000,
+                642.3
+            ],
+            [
+                1734707721000,
+                642.3
+            ],
+            [
+                1734707876000,
+                642.3
+            ],
+            [
+                1734707883000,
+                642.3
+            ],
+            [
+                1734707903000,
+                643
+            ],
+            [
+                1734707936000,
+                643
+            ],
+            [
+                1734707942000,
+                643
+            ],
+            [
+                1734707980000,
+                643
+            ],
+            [
+                1734707987000,
+                643
+            ],
+            [
+                1734708029000,
+                643
+            ],
+            [
+                1734708063000,
+                643
+            ],
+            [
+                1734708145000,
+                643
+            ],
+            [
+                1734708171000,
+                643
+            ],
+            [
+                1734708191000,
+                643
+            ],
+            [
+                1734708205000,
+                643
+            ],
+            [
+                1734708245000,
+                643
+            ],
+            [
+                1734708292000,
+                643
+            ],
+            [
+                1734708312000,
+                642.95
+            ],
+            [
+                1734708479000,
+                643
+            ],
+            [
+                1734708493000,
+                643
+            ],
+            [
+                1734708500000,
+                644
+            ],
+            [
+                1734708599000,
+                642.5
+            ],
+            [
+                1734709201000,
+                642.65
+            ],
+            [
+                1734709207000,
+                642.65
+            ],
+            [
+                1734709210000,
+                642.65
+            ],
+            [
+                1734709215000,
+                642.65
+            ],
+            [
+                1734709272000,
+                642.65
+            ],
+            [
+                1734709286000,
+                642.65
+            ],
+            [
+                1734709900000,
+                642.65
+            ],
+            [
+                1734710018000,
+                642.65
+            ]
+        ],
+        "closePrice": 650.6
+    }
+}

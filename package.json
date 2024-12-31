@@ -1,0 +1,23 @@
+{
+    "name": "nse-stock-api",
+    "version": "1.0.0",
+    "description": "Node.js app to fetch stock data from NSE",
+    "main": "dist/index.js",
+    "scripts": {
+        "start": "nodemon src/index.js"
+    },
+    "dependencies": {
+        "@types/moment": "^2.11.29",
+        "@types/moment-range": "^3.1.2",
+        "axios": "^1.7.9",
+        "cors": "^2.8.5",
+        "express": "^4.21.1",
+        "moment-range": "^4.0.2",
+        "next": "^14.2.15",
+        "user-agents": "^1.1.326"
+    },
+    "devDependencies": {
+        "@types/express": "^5.0.0",
+        "@types/user-agents": "^1.0.4"
+    }
+}

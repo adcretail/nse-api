@@ -1,0 +1,1284 @@
+{
+    "equityDetails": {
+        "info": {
+            "symbol": "KREBSBIO",
+            "companyName": "Krebs Biochemicals and Industries Limited",
+            "industry": "Pharmaceuticals",
+            "activeSeries": [
+                "BE"
+            ],
+            "debtSeries": [],
+            "isFNOSec": false,
+            "isCASec": false,
+            "isSLBSec": false,
+            "isDebtSec": false,
+            "isSuspended": false,
+            "tempSuspendedSeries": [],
+            "isETFSec": false,
+            "isDelisted": false,
+            "isin": "INE268B01013",
+            "listingDate": "2000-04-19",
+            "isMunicipalBond": false,
+            "isTop10": false,
+            "identifier": "KREBSBIOBEN"
+        },
+        "metadata": {
+            "series": "BE",
+            "symbol": "KREBSBIO",
+            "isin": "INE268B01013",
+            "status": "Listed",
+            "listingDate": "19-Apr-2000",
+            "industry": "Pharmaceuticals",
+            "lastUpdateTime": "20-Dec-2024 16:00:00",
+            "pdSectorPe": 0,
+            "pdSymbolPe": 0,
+            "pdSectorInd": "NA",
+            "pdSectorIndAll": "NA"
+        },
+        "securityInfo": {
+            "boardStatus": "Main",
+            "tradingStatus": "Active",
+            "tradingSegment": "Normal Market",
+            "sessionNo": "-",
+            "slb": "No",
+            "classOfShare": "Equity",
+            "derivatives": "No",
+            "surveillance": {
+                "surv": "ESM - II (35)",
+                "desc": "Enhanced Surveillance Measure (ESM) - Stage II"
+            },
+            "faceValue": 10,
+            "issuedSize": 21560586
+        },
+        "sddDetails": {
+            "SDDAuditor": "-",
+            "SDDStatus": "-"
+        },
+        "currentMarketType": "NM",
+        "priceInfo": {
+            "lastPrice": 97,
+            "change": -2.049999999999997,
+            "pChange": -2.0696617869762717,
+            "previousClose": 99.05,
+            "open": 99.9,
+            "close": 97.36,
+            "vwap": 99.11,
+            "stockIndClosePrice": 0,
+            "lowerCP": "94.09",
+            "upperCP": "104.00",
+            "pPriceBand": "5",
+            "basePrice": 99.05,
+            "intraDayHighLow": {
+                "min": 97,
+                "max": 102,
+                "value": 97
+            },
+            "weekHighLow": {
+                "min": 60.35,
+                "minDate": "28-Mar-2024",
+                "max": 129.07,
+                "maxDate": "27-Nov-2024",
+                "value": 97
+            },
+            "iNavValue": null,
+            "checkINAV": false,
+            "tickSize": 0.01,
+            "ieq": ""
+        },
+        "industryInfo": {
+            "macro": "Healthcare",
+            "sector": "Healthcare",
+            "industry": "Pharmaceuticals & Biotechnology",
+            "basicIndustry": "Pharmaceuticals"
+        },
+        "preOpenMarket": {
+            "preopen": [
+                {
+                    "price": 95.02,
+                    "buyQty": 500,
+                    "sellQty": 0
+                },
+                {
+                    "price": 95.05,
+                    "buyQty": 150,
+                    "sellQty": 0
+                },
+                {
+                    "price": 95.1,
+                    "buyQty": 1500,
+                    "sellQty": 0
+                },
+                {
+                    "price": 95.35,
+                    "buyQty": 200,
+                    "sellQty": 0
+                },
+                {
+                    "price": 99,
+                    "buyQty": 3,
+                    "sellQty": 0
+                },
+                {
+                    "price": 99.9,
+                    "buyQty": 0,
+                    "sellQty": 384,
+                    "iep": true
+                },
+                {
+                    "price": 103.45,
+                    "buyQty": 0,
+                    "sellQty": 20
+                },
+                {
+                    "price": 104,
+                    "buyQty": 0,
+                    "sellQty": 10
+                }
+            ],
+            "ato": {
+                "buy": 0,
+                "sell": 0
+            },
+            "IEP": 99.9,
+            "totalTradedVolume": 16,
+            "finalPrice": 99.9,
+            "finalQuantity": 16,
+            "lastUpdateTime": "20-Dec-2024 09:07:59",
+            "totalBuyQuantity": 3033,
+            "totalSellQuantity": 414,
+            "atoBuyQty": 0,
+            "atoSellQty": 0,
+            "Change": 0.8500000000000085,
+            "perChange": 0.8581524482584639,
+            "prevClose": 99.05
+        }
+    },
+    "tradeInfo": {
+        "noBlockDeals": true,
+        "bulkBlockDeals": [
+            {
+                "name": "Session I"
+            },
+            {
+                "name": "Session II"
+            }
+        ],
+        "marketDeptOrderBook": {
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "open": 99.9,
+            "bid": [
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                }
+            ],
+            "ask": [
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                },
+                {
+                    "price": 0,
+                    "quantity": 0
+                }
+            ],
+            "tradeInfo": {
+                "totalTradedVolume": 0.04,
+                "totalTradedValue": 0.04,
+                "totalMarketCap": 209.14,
+                "ffmc": 46.942208045,
+                "impactCost": 2.18,
+                "cmDailyVolatility": "3.74",
+                "cmAnnualVolatility": "71.45",
+                "marketLot": "",
+                "activeSeries": "BE"
+            },
+            "valueAtRisk": {
+                "securityVar": 0,
+                "indexVar": 0,
+                "varMargin": 100,
+                "extremeLossMargin": 0,
+                "adhocMargin": 0,
+                "applicableMargin": 100
+            }
+        },
+        "securityWiseDP": {
+            "quantityTraded": 0,
+            "deliveryQuantity": 0,
+            "deliveryToTradedQuantity": 0,
+            "seriesRemarks": null,
+            "secWiseDelPosDate": "-"
+        }
+    },
+    "corporateInfo": {
+        "latest_announcements": {
+            "data": [
+                {
+                    "symbol": "KREBSBIO",
+                    "broadcastdate": "19-Dec-2024 15:33:01",
+                    "subject": "Trading Window-XBRL"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "broadcastdate": "19-Dec-2024 15:19:34",
+                    "subject": "Trading Window"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "broadcastdate": "11-Dec-2024 18:08:08",
+                    "subject": "Clarification - Financial Results"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "broadcastdate": "10-Dec-2024 13:25:31",
+                    "subject": "Price movement"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "broadcastdate": "27-Nov-2024 18:04:41",
+                    "subject": "Price movement"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "broadcastdate": "12-Nov-2024 13:44:18",
+                    "subject": "Copy of Newspaper Publication"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "broadcastdate": "11-Nov-2024 13:42:30",
+                    "subject": "Financial Result Updates"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "broadcastdate": "11-Nov-2024 13:40:58",
+                    "subject": "Outcome of Board Meeting"
+                }
+            ]
+        },
+        "corporate_actions": {
+            "data": [
+                {
+                    "symbol": "KREBSBIO",
+                    "exdate": "20-Sep-2023",
+                    "purpose": "Annual General Meeting"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "exdate": "15-Sep-2021",
+                    "purpose": " Annual General Meeting"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "exdate": "16-Sep-2020",
+                    "purpose": " Annual General Meeting"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "exdate": "13-Sep-2019",
+                    "purpose": " Annual General Meeting"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "exdate": "31-Jan-2019",
+                    "purpose": " Rights 21:100 @ Premium Rs 76 Per Share"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "exdate": "30-Aug-2018",
+                    "purpose": " Annual General Meeting"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "exdate": "14-Sep-2017",
+                    "purpose": " Annual General Meeting"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "exdate": "20-Sep-2016",
+                    "purpose": " Annual General Meeting"
+                }
+            ]
+        },
+        "shareholdings_patterns": {
+            "data": {
+                "30-Sep-2023": [
+                    {
+                        "Promoter & Promoter Group": "  72.74"
+                    },
+                    {
+                        "Public": "  27.26"
+                    },
+                    {
+                        "Shares held by Employee Trusts": "   0.00"
+                    },
+                    {
+                        "Total": " 100.00"
+                    }
+                ],
+                "31-Dec-2023": [
+                    {
+                        "Promoter & Promoter Group": "  72.74"
+                    },
+                    {
+                        "Public": "  27.26"
+                    },
+                    {
+                        "Shares held by Employee Trusts": "   0.00"
+                    },
+                    {
+                        "Total": " 100.00"
+                    }
+                ],
+                "31-Mar-2024": [
+                    {
+                        "Promoter & Promoter Group": "  72.74"
+                    },
+                    {
+                        "Public": "  27.26"
+                    },
+                    {
+                        "Shares held by Employee Trusts": "   0.00"
+                    },
+                    {
+                        "Total": " 100.00"
+                    }
+                ],
+                "30-Jun-2024": [
+                    {
+                        "Promoter & Promoter Group": "  72.74"
+                    },
+                    {
+                        "Public": "  27.26"
+                    },
+                    {
+                        "Shares held by Employee Trusts": "   0.00"
+                    },
+                    {
+                        "Total": " 100.00"
+                    }
+                ],
+                "30-Sep-2024": [
+                    {
+                        "Promoter & Promoter Group": "  72.74"
+                    },
+                    {
+                        "Public": "  27.26"
+                    },
+                    {
+                        "Shares held by Employee Trusts": "   0.00"
+                    },
+                    {
+                        "Total": " 100.00"
+                    }
+                ]
+            }
+        },
+        "financial_results": {
+            "data": [
+                {
+                    "from_date": "01 Jul 2024",
+                    "to_date": "30 Sep 2024",
+                    "expenditure": "1870.22",
+                    "income": "1294.14",
+                    "audited": "Un-Audited",
+                    "cumulative": "Non-cumulative",
+                    "consolidated": "Non-Consolidated",
+                    "reDilEPS": "-2.67",
+                    "reProLossBefTax": "-576.08",
+                    "proLossAftTax": "-576.08",
+                    "re_broadcast_timestamp": "11-Nov-2024 16:08",
+                    "xbrl_attachment": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_114834_1303809_11112024040839.xml",
+                    "na_attachment": "https://nsearchives.nseindia.com/na_attachments/KREBSBIO_NA_11112024160840_1.zip"
+                },
+                {
+                    "from_date": "01 Apr 2024",
+                    "to_date": "30 Jun 2024",
+                    "expenditure": "1809.36",
+                    "income": "1292.25",
+                    "audited": "Un-Audited",
+                    "cumulative": "Non-cumulative",
+                    "consolidated": "Non-Consolidated",
+                    "reDilEPS": "-2.4",
+                    "reProLossBefTax": "-517.11",
+                    "proLossAftTax": "-517.11",
+                    "re_broadcast_timestamp": "07-Aug-2024 15:00",
+                    "xbrl_attachment": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_110602_1215187_07082024030014.xml",
+                    "na_attachment": "https://nsearchives.nseindia.com/na_attachments/KREBSBIO_NA_07082024150014_1.zip"
+                },
+                {
+                    "from_date": "01 Jan 2024",
+                    "to_date": "31 Mar 2024",
+                    "expenditure": "1803.01",
+                    "income": "1218.31",
+                    "audited": "Audited",
+                    "cumulative": "Non-cumulative",
+                    "consolidated": "Non-Consolidated",
+                    "reDilEPS": "-2.72",
+                    "reProLossBefTax": "-584.7",
+                    "proLossAftTax": "-584.7",
+                    "re_broadcast_timestamp": "22-May-2024 09:20",
+                    "xbrl_attachment": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_106593_1132649_22052024092026.xml",
+                    "na_attachment": "https://nsearchives.nseindia.com/na_attachments/KREBSBIO_NA_22052024092026_1.zip"
+                },
+                {
+                    "from_date": "01 Oct 2023",
+                    "to_date": "31 Dec 2023",
+                    "expenditure": "1798.4",
+                    "income": "1300.66",
+                    "audited": "Un-Audited",
+                    "cumulative": "Non-cumulative",
+                    "consolidated": "Non-Consolidated",
+                    "reDilEPS": "-2.31",
+                    "reProLossBefTax": "-497.74",
+                    "proLossAftTax": "-497.74",
+                    "re_broadcast_timestamp": "12-Feb-2024 18:40",
+                    "xbrl_attachment": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_103532_1052365_12022024064039.xml",
+                    "na_attachment": "https://nsearchives.nseindia.com/na_attachments/KREBSBIO_NA_12022024184039_1.zip"
+                },
+                {
+                    "from_date": "01 Jul 2023",
+                    "to_date": "30 Sep 2023",
+                    "expenditure": "1863.56",
+                    "income": "1506.43",
+                    "audited": "Un-Audited",
+                    "cumulative": "Non-cumulative",
+                    "consolidated": "Non-Consolidated",
+                    "reDilEPS": "-1.66",
+                    "reProLossBefTax": "-357.13",
+                    "proLossAftTax": "-357.13",
+                    "re_broadcast_timestamp": "08-Nov-2023 18:11",
+                    "xbrl_attachment": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_99539_981039_08112023061133.xml",
+                    "na_attachment": "https://nsearchives.nseindia.com/na_attachments/KREBSBIO_NA_08112023181134_1.zip"
+                }
+            ]
+        },
+        "borad_meeting": {
+            "data": [
+                {
+                    "symbol": "KREBSBIO",
+                    "purpose": "KREBS BIOCHEMICALS AND INDUSTRIES LIMITED has informed the Exchange about Board Meeting to be held on 11-Nov-2024 to consider and approve the Half Yearly Unaudited Financial results of the Company for the period ended September 2024 and Other business.",
+                    "meetingdate": "11-Nov-2024"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "purpose": "To consider and approve the financial results for the period ended September 30, 2024 and other business matters",
+                    "meetingdate": "11-Nov-2024"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "purpose": "Board Meeting Intimation",
+                    "meetingdate": "07-Aug-2024"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "purpose": "The Company has informed that the meeting of Board of Directors of the Company is schedule on 07/08/2024 inter alia to consider and approve Unaudited Financial Results for the quarter ended 30th June 2024.",
+                    "meetingdate": "07-Aug-2024"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "purpose": "Board Meeting Intimation",
+                    "meetingdate": "21-May-2024"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "purpose": "To consider and approve the financial results for the period ended March 31, 2024",
+                    "meetingdate": "21-May-2024"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "purpose": "Board Meeting Intimation",
+                    "meetingdate": "12-Feb-2024"
+                },
+                {
+                    "symbol": "KREBSBIO",
+                    "purpose": "To consider and approve the Unaudited Financial Results of the 3rd quarter and 9 months ended December 31, 2023 of the Financial year 2023-24.",
+                    "meetingdate": "12-Feb-2024"
+                }
+            ]
+        }
+    },
+    "intradayData": {
+        "identifier": "KREBSBIOBEN",
+        "name": "KREBSBIO",
+        "grapthData": [
+            [
+                1734686139000,
+                99.9
+            ],
+            [
+                1734686162000,
+                99.9
+            ],
+            [
+                1734686194000,
+                99.9
+            ],
+            [
+                1734686275000,
+                99.9
+            ],
+            [
+                1734686354000,
+                99.9
+            ],
+            [
+                1734686369000,
+                99.9
+            ],
+            [
+                1734686377000,
+                99.9
+            ],
+            [
+                1734686384000,
+                99.9
+            ],
+            [
+                1734686392000,
+                99.9
+            ],
+            [
+                1734686400000,
+                99.9
+            ],
+            [
+                1734686408000,
+                99.9
+            ],
+            [
+                1734686492000,
+                99.9
+            ],
+            [
+                1734686515000,
+                99.9
+            ],
+            [
+                1734686523000,
+                99.9
+            ],
+            [
+                1734686630000,
+                99.9
+            ],
+            [
+                1734686707000,
+                99.9
+            ],
+            [
+                1734686722000,
+                101
+            ],
+            [
+                1734686745000,
+                101
+            ],
+            [
+                1734686768000,
+                101
+            ],
+            [
+                1734686798000,
+                101
+            ],
+            [
+                1734686821000,
+                101
+            ],
+            [
+                1734686874000,
+                101
+            ],
+            [
+                1734686881000,
+                101
+            ],
+            [
+                1734686957000,
+                101
+            ],
+            [
+                1734687032000,
+                101
+            ],
+            [
+                1734687054000,
+                101
+            ],
+            [
+                1734687062000,
+                101
+            ],
+            [
+                1734687375000,
+                101
+            ],
+            [
+                1734687397000,
+                101
+            ],
+            [
+                1734687476000,
+                101
+            ],
+            [
+                1734687560000,
+                101
+            ],
+            [
+                1734687666000,
+                101
+            ],
+            [
+                1734687784000,
+                101
+            ],
+            [
+                1734687811000,
+                101
+            ],
+            [
+                1734688016000,
+                101
+            ],
+            [
+                1734688396000,
+                101
+            ],
+            [
+                1734688448000,
+                100
+            ],
+            [
+                1734688468000,
+                100
+            ],
+            [
+                1734688481000,
+                100
+            ],
+            [
+                1734688572000,
+                98.5
+            ],
+            [
+                1734688673000,
+                98.5
+            ],
+            [
+                1734689114000,
+                98.5
+            ],
+            [
+                1734689167000,
+                98.5
+            ],
+            [
+                1734689371000,
+                97.05
+            ],
+            [
+                1734689507000,
+                97.05
+            ],
+            [
+                1734689526000,
+                97.05
+            ],
+            [
+                1734689615000,
+                97.05
+            ],
+            [
+                1734689628000,
+                97.05
+            ],
+            [
+                1734689712000,
+                97.05
+            ],
+            [
+                1734689880000,
+                97.05
+            ],
+            [
+                1734689966000,
+                97.05
+            ],
+            [
+                1734690006000,
+                97.05
+            ],
+            [
+                1734690026000,
+                97.05
+            ],
+            [
+                1734690301000,
+                97.05
+            ],
+            [
+                1734690492000,
+                97.05
+            ],
+            [
+                1734690566000,
+                97.05
+            ],
+            [
+                1734690711000,
+                97.05
+            ],
+            [
+                1734690810000,
+                97.05
+            ],
+            [
+                1734690865000,
+                97.05
+            ],
+            [
+                1734691046000,
+                97.05
+            ],
+            [
+                1734691071000,
+                97.05
+            ],
+            [
+                1734691154000,
+                97.05
+            ],
+            [
+                1734691189000,
+                97.05
+            ],
+            [
+                1734691338000,
+                97.15
+            ],
+            [
+                1734691351000,
+                97.15
+            ],
+            [
+                1734692349000,
+                97.15
+            ],
+            [
+                1734692398000,
+                97.15
+            ],
+            [
+                1734692409000,
+                97.15
+            ],
+            [
+                1734692498000,
+                97.18
+            ],
+            [
+                1734692710000,
+                97.18
+            ],
+            [
+                1734692739000,
+                97.18
+            ],
+            [
+                1734692744000,
+                97.18
+            ],
+            [
+                1734692956000,
+                97.18
+            ],
+            [
+                1734693190000,
+                97.18
+            ],
+            [
+                1734693235000,
+                97.18
+            ],
+            [
+                1734693252000,
+                97.18
+            ],
+            [
+                1734693257000,
+                97.18
+            ],
+            [
+                1734693285000,
+                97.18
+            ],
+            [
+                1734693326000,
+                97.18
+            ],
+            [
+                1734693353000,
+                98
+            ],
+            [
+                1734693394000,
+                98
+            ],
+            [
+                1734693413000,
+                98
+            ],
+            [
+                1734693420000,
+                98
+            ],
+            [
+                1734693485000,
+                98
+            ],
+            [
+                1734693559000,
+                98
+            ],
+            [
+                1734693909000,
+                98
+            ],
+            [
+                1734694093000,
+                98
+            ],
+            [
+                1734694460000,
+                99.49
+            ],
+            [
+                1734694735000,
+                99.49
+            ],
+            [
+                1734695001000,
+                99.49
+            ],
+            [
+                1734695118000,
+                98
+            ],
+            [
+                1734695128000,
+                98
+            ],
+            [
+                1734695915000,
+                98
+            ],
+            [
+                1734696229000,
+                98
+            ],
+            [
+                1734696504000,
+                98
+            ],
+            [
+                1734696641000,
+                98
+            ],
+            [
+                1734696682000,
+                98
+            ],
+            [
+                1734696774000,
+                98
+            ],
+            [
+                1734697014000,
+                100.75
+            ],
+            [
+                1734697031000,
+                100.75
+            ],
+            [
+                1734697054000,
+                100.75
+            ],
+            [
+                1734697087000,
+                100
+            ],
+            [
+                1734697196000,
+                100
+            ],
+            [
+                1734697408000,
+                100
+            ],
+            [
+                1734697821000,
+                102
+            ],
+            [
+                1734697937000,
+                102
+            ],
+            [
+                1734698043000,
+                102
+            ],
+            [
+                1734698079000,
+                102
+            ],
+            [
+                1734698090000,
+                102
+            ],
+            [
+                1734698273000,
+                102
+            ],
+            [
+                1734698433000,
+                102
+            ],
+            [
+                1734698653000,
+                101.7
+            ],
+            [
+                1734698732000,
+                101.7
+            ],
+            [
+                1734698755000,
+                101.7
+            ],
+            [
+                1734698801000,
+                101.7
+            ],
+            [
+                1734699022000,
+                101.7
+            ],
+            [
+                1734699189000,
+                101.7
+            ],
+            [
+                1734699298000,
+                101.7
+            ],
+            [
+                1734699328000,
+                101.7
+            ],
+            [
+                1734699464000,
+                101.7
+            ],
+            [
+                1734699514000,
+                101.7
+            ],
+            [
+                1734699641000,
+                101.7
+            ],
+            [
+                1734699889000,
+                101.7
+            ],
+            [
+                1734700209000,
+                101.7
+            ],
+            [
+                1734700458000,
+                101.7
+            ],
+            [
+                1734700464000,
+                101.7
+            ],
+            [
+                1734700602000,
+                101.7
+            ],
+            [
+                1734700743000,
+                100.9
+            ],
+            [
+                1734700987000,
+                100.9
+            ],
+            [
+                1734701215000,
+                100.9
+            ],
+            [
+                1734701293000,
+                100.9
+            ],
+            [
+                1734701321000,
+                100.9
+            ],
+            [
+                1734701372000,
+                100.9
+            ],
+            [
+                1734701433000,
+                100.9
+            ],
+            [
+                1734701528000,
+                100.9
+            ],
+            [
+                1734701716000,
+                100.9
+            ],
+            [
+                1734701825000,
+                98.26
+            ],
+            [
+                1734701938000,
+                98.26
+            ],
+            [
+                1734702038000,
+                98.26
+            ],
+            [
+                1734702110000,
+                98.26
+            ],
+            [
+                1734702488000,
+                98.26
+            ],
+            [
+                1734702521000,
+                98.26
+            ],
+            [
+                1734702834000,
+                98.26
+            ],
+            [
+                1734703017000,
+                98.26
+            ],
+            [
+                1734703034000,
+                98.26
+            ],
+            [
+                1734703159000,
+                98.5
+            ],
+            [
+                1734703170000,
+                99
+            ],
+            [
+                1734703248000,
+                98.26
+            ],
+            [
+                1734703347000,
+                98.26
+            ],
+            [
+                1734703504000,
+                98.26
+            ],
+            [
+                1734703510000,
+                98.26
+            ],
+            [
+                1734704000000,
+                98.26
+            ],
+            [
+                1734704166000,
+                98.26
+            ],
+            [
+                1734704376000,
+                97.21
+            ],
+            [
+                1734704668000,
+                97.21
+            ],
+            [
+                1734704920000,
+                97.21
+            ],
+            [
+                1734704926000,
+                97.21
+            ],
+            [
+                1734704949000,
+                97.21
+            ],
+            [
+                1734705315000,
+                97.21
+            ],
+            [
+                1734705500000,
+                97.21
+            ],
+            [
+                1734705575000,
+                97.21
+            ],
+            [
+                1734706004000,
+                97.21
+            ],
+            [
+                1734706068000,
+                97.21
+            ],
+            [
+                1734706321000,
+                97.22
+            ],
+            [
+                1734706852000,
+                97.21
+            ],
+            [
+                1734706945000,
+                97.21
+            ],
+            [
+                1734706965000,
+                97.21
+            ],
+            [
+                1734707038000,
+                97.21
+            ],
+            [
+                1734707191000,
+                97.21
+            ],
+            [
+                1734707204000,
+                97.21
+            ],
+            [
+                1734707285000,
+                97.21
+            ],
+            [
+                1734707546000,
+                97.21
+            ],
+            [
+                1734707718000,
+                98
+            ],
+            [
+                1734707841000,
+                98
+            ],
+            [
+                1734707880000,
+                97.1
+            ],
+            [
+                1734707926000,
+                97.05
+            ],
+            [
+                1734708134000,
+                98.26
+            ],
+            [
+                1734708161000,
+                98.26
+            ],
+            [
+                1734708168000,
+                98.26
+            ],
+            [
+                1734708229000,
+                97.05
+            ],
+            [
+                1734708249000,
+                97.05
+            ],
+            [
+                1734708296000,
+                97.25
+            ],
+            [
+                1734708322000,
+                97.25
+            ],
+            [
+                1734708375000,
+                97.25
+            ],
+            [
+                1734708421000,
+                97.25
+            ],
+            [
+                1734708560000,
+                97.05
+            ],
+            [
+                1734708568000,
+                97
+            ]
+        ],
+        "closePrice": 99.05
+    }
+}
