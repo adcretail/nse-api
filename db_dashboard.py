@@ -5,7 +5,7 @@ import pandas as pd
 
 # Database connection parameters
 db_params = {
-    "dbname": "stock_analytics",
+    "dbname": "stock_dashboard",
     "user": "root",
     "password": "arka1256",
     "host": "localhost",

@@ -12,9 +12,9 @@ db_params = {
     'port': '5432'
 }
 
-# SQL query to fetch filtered data and compute price differences
+# SQL query to fetch filtered stock data
 def get_filtered_stocks(cursor):
-    """Retrieve filtered stock data with computed price drop percentages."""
+    """Retrieve filtered stock data with computed metrics."""
     query = """
     SELECT 
         ei.company_name,
@@ -39,8 +39,8 @@ def get_filtered_stocks(cursor):
     LEFT JOIN trade_info ti ON ei.symbol = ti.symbol
     LEFT JOIN shareholdings_patterns sp ON ei.symbol = sp.symbol
     LEFT JOIN financial_results fr ON ei.symbol = fr.symbol
-    WHERE 
-        sdp.delivery_to_traded_quantity > 60
+     WHERE 
+        ti.trade_info_total_market_cap > 1000 AND ti.trade_info_total_market_cap < 10000 AND sdp.delivery_to_traded_quantity > 65 AND fr.pro_loss_aft_tax>1000
     ORDER BY 
         sdp.delivery_to_traded_quantity DESC;
     """
@@ -49,10 +49,42 @@ def get_filtered_stocks(cursor):
     column_names = [desc[0] for desc in cursor.description]
     return column_names, rows
 
+# Function to suggest trading strategies
+def suggest_trading_strategies(df):
+    """Analyze stock data and suggest trading strategies."""
+    suggestions = []
+    
+    for _, row in df.iterrows():
+        strategies = []
+        
+        # Handle None values
+        last_price = float(row["last_traded_price"]) if row["last_traded_price"] is not None else None
+        upper_cp = float(row["upper_cp_numeric"]) if row["upper_cp_numeric"] is not None else None
+        week_high = float(row["week_high_low_max_numeric"]) if row["week_high_low_max_numeric"] is not None else None
+        drop_from_week_high = row["drop_from_week_high"] if row["drop_from_week_high"] is not None else None
+        delivery_to_traded_quantity = row["delivery_to_traded_quantity"] if row["delivery_to_traded_quantity"] is not None else None
+        symbol_pe = row["symbol_pe"] if row["symbol_pe"] is not None else None
+        market_cap = row["market_cap"] if row["market_cap"] is not None else None
+
+        # Suggested strategies
+        if drop_from_week_high is not None and drop_from_week_high > 20:
+            strategies.append("Mean Reversion")
+        if delivery_to_traded_quantity is not None and delivery_to_traded_quantity > 70:
+            strategies.append("Momentum")
+        if symbol_pe is not None and symbol_pe < 15 and market_cap is not None and market_cap < 1_000_000_000:
+            strategies.append("Value Investing")
+        if last_price is not None and upper_cp is not None and last_price >= upper_cp * 0.95:
+            strategies.append("Breakout Trading")
+        
+        suggestions.append(", ".join(strategies) if strategies else "No specific strategy")
+    
+    df["Suggested Strategies"] = suggestions
+    return df
+
 # Streamlit UI
 def main():
-    st.title("📊 Filtered Stock Data Viewer")
-    st.markdown("View filtered stock data with delivery-to-traded quantity greater than 65 and sorted in descending order.")
+    st.title("📊 Filtered Stock Data Viewer with Trading Strategies")
+    st.markdown("View filtered stock data and suggested quant-based trading strategies.")
 
     try:
         # Connect to the PostgreSQL database
@@ -66,15 +98,18 @@ def main():
             # Convert to DataFrame for better display
             df = pd.DataFrame(rows, columns=column_names)
             
+            # Suggest trading strategies
+            df = suggest_trading_strategies(df)
+
             # Display the DataFrame
             st.dataframe(df)
 
             # Option to download the data as a CSV
             csv = df.to_csv(index=False).encode('utf-8')
             st.download_button(
-                label="Download Data as CSV",
+                label="Download Data with Strategies as CSV",
                 data=csv,
-                file_name="filtered_stocks.csv",
+                file_name="filtered_stocks_with_strategies.csv",
                 mime="text/csv"
             )
         else:
