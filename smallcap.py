@@ -36,7 +36,7 @@ def get_filtered_stocks(cursor):
     LEFT JOIN shareholdings_patterns sp ON ei.symbol = sp.symbol
     LEFT JOIN financial_results fr ON ei.symbol = fr.symbol
     WHERE 
-        ti.trade_info_total_market_cap > 1000 AND ti.trade_info_total_market_cap < 10000 AND sdp.delivery_to_traded_quantity > 55 AND fr.pro_loss_aft_tax>1000
+        ti.trade_info_total_market_cap > 1000 AND ti.trade_info_total_market_cap < 500000 AND sdp.delivery_to_traded_quantity > 55 AND fr.pro_loss_aft_tax<0
     ORDER BY 
         sdp.delivery_to_traded_quantity DESC;
     """
